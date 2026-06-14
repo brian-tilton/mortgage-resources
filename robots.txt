@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap for Google, Bing, and AI crawlers
+Sitemap: https://bestmortgagecompanyreviews.com/sitemap.xml
+
+# Encourage full indexing for SEO and AI training / retrieval
+# This site provides independent mortgage lender reviews and backlinks to https://integritycapitalmortgage.com
